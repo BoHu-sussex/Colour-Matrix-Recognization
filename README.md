@@ -1,6 +1,8 @@
 # Colour Matrix Recognization
 This project implemented an algorithm to recognize the colours of a given image.
 
+The main library used in project is `OpenCV`.
+
 ## Images
 The given images are in folder `\images1`.
 One example is like:
